@@ -1,0 +1,14 @@
+Step : 1
+Install GIT
+Step : 2
+create new repo
+Step : 3
+Create branch
+Step : 4
+commit
+Step : 5
+clone
+Step : 6
+push
+Step : 7
+Authenticate
